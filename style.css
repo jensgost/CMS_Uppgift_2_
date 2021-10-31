@@ -116,7 +116,7 @@ h6 {
     top: 0;
     height: 100vh;
     width: var(--sidebar-width);
-    background: var(--primary);
+    background: var(--green);
     color: #fff
 }
 .header .site-title {
@@ -283,7 +283,7 @@ h6 {
 }
 
 .blog-nav a {
-    background: var(--primary);
+    background: var(--green);
     color: #fff;
     font-size: 1rem;
     padding: 1rem;
